@@ -1,6 +1,10 @@
 hpmpy-project
 ====================================================================================================
 
+.. image:: https://api.codacy.com/project/badge/Grade/1ca63d5041da49dca70ece1ee8ad654c
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/gh/tZ3ma/hpmpy-project?utm_source=github.com&utm_medium=referral&utm_content=tZ3ma/hpmpy-project&utm_campaign=Badge_Grade_Settings
+
 |PyPI| |Status| |Python Version| |License|
 
 |Read the Docs| |Tests| |Codecov|
