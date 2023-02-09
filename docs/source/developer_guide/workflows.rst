@@ -154,6 +154,13 @@ After new code is added and all tests are passed, following is the usua workflow
    :code:`nox -s pre-commit`
 4. Stage again to reflect changes done by pre-commit_ :code:`git add`
 5. Commit_ your changes using :code:`git commit -m "MY MESSAGE"`
+6. If you are new to programing or performing a heavy legacy import it can
+   make sense to commit and push non-passing stages of code. To circumvent
+   the pre-commit hooks in order to upload local progress you can use the
+   :code:`-n` or :code:`--no-verify` option during committing::
+
+	   git commit -n
+
 
 .. _workflows_releases:
 
